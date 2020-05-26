@@ -1,0 +1,26 @@
+= Applied Machine Learning
+
+First thing first - learn the jargons of machine learning practitioners without going too deep into any algorithms.
+
+Can you explain these terms to me? Can you explain like I am 5 year old (ELI5) ?
+If you are not sure, please use google search to learn about these terms:
+
+- Dataset: training, testing, validation sets
+- Input, features, examples, labels
+- Supervised, Semi-supervised, Unsupervised/self-supervised
+- Loss function
+- Classifier / classification
+- Regressor / regression
+- Clustering
+- Function and function approximation
+- Parameters, Optimizer, learning rate,
+- Training and validation
+- batch, mini batch, batch size, epochs, steps
+- Closed form solution
+- Gradient optimizer, minima, maxima, local and global minima
+- Stochastic / stochasticity, probability, distribution, conditional vs marginal probability
+- Derivative, gradient
+- (... TODO: more )
+
+
+You can find most of the relevant docs at link:https://scikit-learn.org/stable/tutorial/basic/tutorial.html[Scikit-learn]

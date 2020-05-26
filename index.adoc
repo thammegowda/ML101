@@ -1,0 +1,14 @@
+= Machine Learning for Beginners
+Thamme Gowda
+:doctype: book
+:encoding: utf-8
+:lang: en
+:toc: left
+:toclevels: 3
+// :numbered:
+
+WARNING: This is work in progress
+
+include::prereqs/index.adoc[]
+include::applied/index.adoc[]
+include::theory/index.adoc[]

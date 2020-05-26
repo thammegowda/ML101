@@ -1,0 +1,9 @@
+= Prerequisites
+
+* Python programming language- http://dl.booktolearn.com/ebooks2/computer/python/9781119557593_Python_All_in_One_For_Dummies_b106.pdf[Python All in One For Dummies]
+* Know how to save and share your work with via Git and Github.
+** https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-[GitHub]
+** https://guides.github.com/introduction/git-handbook/[Git]
+* Know how to install libraries and tools
+** Using `pip`
+** Using `conda`

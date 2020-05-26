@@ -1,0 +1,20 @@
+
+= Machine Learning Theory
+
+There are a ton of resources online. My job is to narrow down the useful resources so you dont get lost!
+
+I say - get started with link:https://www.youtube.com/playlist?list=PLRJdqdXieSHN0udSvZ-4kwX_Naqs4QJ19[Andrew Ng's Machine Learning Course [Videos]].
+
+This is a great course -- IMHO, the best course for the beginners.
+The instructor is amazing, as he provides intuitions for the complicated maths.
+Those intuitions are necessary and great help for the future.
+Warning: the maths and things gets more complicated as you advance, but thats okay, you will get stronger to deal with it.
+
+BTW, I had also started with the same course, and later I went to MS and PhD (in-progress) classes.
+I couldn't find another excellent instructor like this Andrew Ng!
+Keep in mind that the above course either use or reference Octave/Matlab language and tools for its programming exercises.
+Since we are living in a world where learning python is useful than Octave/Matlab,
+I suggest we should use Python now instead of Matlab/Octave for the programming exercises.
+
+
+Oh, Yes, dont worry about deep learnig buzz yet. If possible mute it untill you get some basics.
