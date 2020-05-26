@@ -10,5 +10,7 @@ Thamme Gowda
 WARNING: This is work in progress
 
 include::prereqs/index.adoc[]
+
 include::applied/index.adoc[]
+
 include::theory/index.adoc[]
