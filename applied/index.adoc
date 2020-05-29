@@ -23,4 +23,7 @@ If you are not sure, please use google search to learn about these terms:
 - (... TODO: more )
 
 
-You can find most of the relevant docs at link:https://scikit-learn.org/stable/tutorial/basic/tutorial.html[Scikit-learn]
+You can find most of the relevant docs at
+
+- link:https://scikit-learn.org/stable/tutorial/basic/tutorial.html[Scikit-learn docs]
+- link:https://livebook.manning.com/book/machine-learning-with-tensorflow-second-edition/chapter-1/[Chapter 1 of Machine Learning with TensorFlow, Second Edition]
